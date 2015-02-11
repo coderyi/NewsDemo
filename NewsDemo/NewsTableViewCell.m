@@ -2,7 +2,7 @@
 //  NewsTableViewCell.m
 //  NewsDemo
 //
-//  Created by YiYing on 15/2/10.
+//  Created by apple on 15/2/10.
 //  Copyright (c) 2015年 coderyi. All rights reserved.
 //
 
