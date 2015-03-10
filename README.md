@@ -4,4 +4,4 @@
 
 
 
-![NewsDemo](http://7u2k5i.com1.z0.glb.clouddn.com/github_NewsDemoGif.gif)  
+![newsdemo](http://7u2k5i.com1.z0.glb.clouddn.com/github_newsdemo1.png?imageMogr2/thumbnail/370x662!) 
