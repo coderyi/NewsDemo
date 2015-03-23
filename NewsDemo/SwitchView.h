@@ -14,6 +14,5 @@
 @property UIButton *button3;
 @property UIButton *button4;
 @property ( strong) void (^ButtonActionBlock)(int buttonTag);
-//一定要加copy关键字
 -(void)swipeAction:(int)tag;
 @end
